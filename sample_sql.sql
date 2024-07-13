@@ -1,0 +1,40 @@
+-- create database codegnan1;
+-- use codegnan1;
+-- create table user1(
+-- ID int,
+-- name varchar(50),
+-- mobile bigint,
+-- course varchar(50)
+-- );
+-- describe user1;
+-- describe user2;
+-- describe product;
+-- desc product;
+-- alter table product add( disc_price int,
+-- mfg_date date,
+-- exp_date date);
+-- desc product;
+-- alter table user1 add (x1 int, x2 int);
+-- desc user1;
+-- alter table user1 drop column x1;
+-- desc user1;
+-- alter table user1 drop column x2;
+-- desc user1;
+-- alter table user1 modify column mobile int;
+-- desc user1;
+-- alter table user1 add email varchar(50);
+-- desc user1;
+-- select * from user1;
+-- select ID, name from user1;
+-- select name, ID from user1;
+-- create database amazon_clone;
+-- use amazon_clone;
+-- create table useraccounts(ID int, Name varchar(50),Email varchar(50),mobile bigint,prime varchar(10));
+-- desc useraccounts;
+-- create table primeaccounts(ID int,Name varchar(30),Email varchar(20),mobile bigint,prime varchar(10));
+-- desc primeaccounts;
+-- create table products(ID int,Pro_Name varchar(50),Pro_Price Int,dis_price int);
+-- desc products;
+-- create table orders(ID int,Pro_Name varchar(50), Fin_price int,Address varchar(100));
+-- desc orders;
+-- use codegnan1;
